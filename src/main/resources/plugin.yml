@@ -1,0 +1,5 @@
+name: ItemEngine
+version: '1.0'
+main: me.coopersully.itemEngine.ItemEngine
+api-version: '1.21'
+description: Create items with custom attributes and effects.
